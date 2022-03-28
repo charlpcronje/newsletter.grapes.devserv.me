@@ -1,0 +1,22 @@
+{
+  "name": "xlhbc9",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "grapesjs": "0.18.4",
+    "grapesjs-blocks-basic": "latest",
+    "grapesjs-preset-newsletter": "0.2.21"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
